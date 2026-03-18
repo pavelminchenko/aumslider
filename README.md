@@ -2,7 +2,7 @@
 AumSlider is a simple image slider, written in Javascript mostly for modern browsers. Also it has no dependencies.
 
 ## Demo
-https://paulsolari.github.io/aumslider/
+https://pavelminchenko.github.io/aumslider/
 
 ## Usage
 #### 1. Add CSS
